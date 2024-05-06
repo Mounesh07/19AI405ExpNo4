@@ -157,7 +157,6 @@ J 0 <br>
 <hr>
 Path found: ['A', 'F', 'G', 'I', 'J']
 
-
 ### PROGRAM
 
 ```
